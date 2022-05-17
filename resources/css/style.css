@@ -239,13 +239,14 @@ header .mobile {
 }
 
 .feature .image-container {
-  width: 90%;
+  /* width: 90%; */
   height: 65%;
-  margin: 0 auto;
+  /* margin: 0 auto; */
 }
 
 .feature img {
   width: 100%;
+  margin: 0 auto;
 }
 
 .feature h2 {
