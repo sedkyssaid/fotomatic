@@ -188,10 +188,12 @@ header .mobile {
     background-color: transparent;
     border: none;
     margin: 0;
+    padding: 0;
   }
 
   #sign-up-cta .content {
     margin-top: 0;
+    width: auto;
   }
 
   #sign-up-cta .email {
@@ -298,7 +300,7 @@ header .mobile {
   }
 
   .feature.feature__bg-grey {
-    background-color: rgba(74, 74, 74, .10);
+    background-color: rgba(74, 74, 74, 0.1);
   }
 
   .feature .content {
@@ -345,6 +347,13 @@ header .mobile {
 #filters-section .images-container {
   max-width: 100%;
   padding: 0 1%;
+  display: flex;
+  justify-content: center;
+  align-content: center;
+}
+
+#filters-section .images-container .image-container img {
+  width: 100%;
 }
 
 @media only screen and (max-width: 760px) {
