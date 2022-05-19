@@ -1,29 +1,15 @@
-# README #
+# Fotomatic #
 
-This README would normally document whatever steps are necessary to get your application up and running.
+A static website focused on HTML 5 elements and CSS 3.
 
-### What is this repository for? ###
+## What is this repository for? ##
 
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
+* This site is a Codecademy Off-Platform Project. The task was to find the CSS and design bugs and fix them. This is my solution to the problem.
+* v1.0
+* [Fotomatic](https://fotomatic-sx3.netlify.app/)
 
-### How do I get set up? ###
+### The assignment ###
 
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
+**Fix a broken version of a responsive website in this project!**
 
-### Contribution guidelines ###
-
-* Writing tests
-* Code review
-* Other guidelines
-
-### Who do I talk to? ###
-
-* Repo owner or admin
-* Other community or team contact
+In this project you will fix a broken version of a responsive website called Fotomatic. You will be provided specs to help guide you in making adjustments to the broken code. Download the broken code [here](https://content.codecademy.com/courses/freelance-1/capstone-1/capstone_fotomatic_start.zip) and the specs [here](https://content.codecademy.com/courses/freelance-1/capstone-1/specs/fotomatic_spec_landing.png). You can also see a working version of the final product [here](https://content.codecademy.com/courses/freelance-1/capstone-1/solution/index.html).
