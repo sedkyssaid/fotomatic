@@ -322,13 +322,14 @@ header .mobile {
 /* Filters Section */
 
 #filters-section {
-  padding: 4rem  0;
+  padding: 4rem 0;
   background-color: #4a4a4a;
 }
 
 #filters-section .content {
   padding: 0 0.625rem;
-  margin-bottom: 5rem;
+  max-width: 53%;
+  margin: 0 auto 5rem auto ;
 }
 
 #filters-section .content h2 {
